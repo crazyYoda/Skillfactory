@@ -84,6 +84,8 @@ while True:
         game_field()
         print(" Игра окончена. Ничья!")
         break
+        
+# erjrjfnkjfkvnlknsv
 
     © 2021 GitHub, Inc.
     Terms
