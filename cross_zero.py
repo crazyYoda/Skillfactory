@@ -1,4 +1,4 @@
-ef begin():      # функция начальной заставки
+def begin():      # функция начальной заставки
     print("           CROSS & ZERO  ")
     print("            это война   ")
     print()
@@ -85,7 +85,7 @@ while True:
         print(" Игра окончена. Ничья!")
         break
         
-# erjrjfnkjfkvnlknsv
+
 
     © 2021 GitHub, Inc.
     Terms
